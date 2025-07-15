@@ -103,11 +103,3 @@ The study uses a publicly available dataset from Kaggle and compares multiple cl
 
 ---
 
-## 📁 Repository Contents
-
-```bash
-📂 customer-churn-prediction-ml/
-├── churn_prediction.ipynb        # Jupyter Notebook with full ML pipeline
-├── GroupReport.docx              # Detailed project report
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project documentation (this file)
